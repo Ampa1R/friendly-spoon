@@ -1,1 +1,3 @@
-# friendly-spoon
+# friendly spoon
+
+monorepo for Friendly Spoon application
